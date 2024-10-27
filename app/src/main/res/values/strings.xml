@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Logo</string>
+    <string name="logo_description">Logo of the application</string>
+    <string name="enter_reg_number">Enter Registration Number</string>
+    <string name="enter_reg_number_accessibility">Enter your registration number</string>
+    <string name="password_hint">Password</string>
+    <string name="password_accessibility">Enter your password</string>
+    <string name="login_button">Log in</string>
+    <string name="lost_password">Lost password?</string>
+    <string name="cookies_notice">Cookies notice</string>
+</resources>
